@@ -377,7 +377,6 @@ body.dark .loader_line:after{
 }
 .know_tm_topbar .know_tm_button{
 	width: auto;
-	margin-left: 30px;
 }
 .know_tm_button a{
 	text-decoration: none;
@@ -386,7 +385,7 @@ body.dark .loader_line:after{
 	text-transform: uppercase;
 	font-weight: 600;
 	display: inline-block;
-	background-color: #ff451b;
+	background-color: #38c0ff;
 	padding: 14px 50px;
 	border-radius: 10px;
 	white-space: nowrap;
@@ -492,7 +491,7 @@ body.dark .loader_line:after{
 }
 .know_tm_hero .subtitle{
 	display: inline-block;
-	color: #ff451b;
+	color: #38c0ff;
 	font-size: 30px;
 	font-weight: 700;
 	margin-bottom: 5px;
@@ -599,7 +598,7 @@ body.dark .loader_line:after{
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	border-radius: 15px;
+	border-radius: 5px;
 }
 .know_tm_hero .right .image .main:before{
 	position: absolute;
@@ -655,7 +654,7 @@ body.dark .loader_line:after{
 .know_tm_hero .main_menu ul li .svg{
 	width: 40px;
 	height: 40px;
-	color: #ff451b;
+	color: #38c0ff;
 	display: block;
 	
 	-webkit-transition: all .3s ease;
@@ -692,7 +691,7 @@ body.dark .loader_line:after{
 	color: #fff;
 }
 .know_tm_hero .main_menu ul li.active{
-	background-color: #ff451b;
+	background-color: #38c0ff;
 }
 
 /*---------------------------------------------------*/
@@ -1010,7 +1009,7 @@ body.dark .loader_line:after{
 }
 .know_tm_hero_second .one .cls-1{
 	stroke: inherit;
-	fill: #ff451b;
+	fill: #38c0ff;
 }
 .know_tm_hero_second .one .svg{
 	width: 20px;
@@ -1324,7 +1323,7 @@ body.dark .loader_line:after{
 	min-width: 47%;
 	left: -55px;
 	margin-top: 55px;
-	background-color: #ff451b;
+	background-color: #38c0ff;
 	padding: 36px 40px 35px 40px;
 	z-index: 1;
 	border-radius: 15px;
@@ -1370,7 +1369,7 @@ body.dark .loader_line:after{
 }
 .know_tm_main_title span{
 	font-size: 21px;
-	color: #ff451b;
+	color: #38c0ff;
 	font-weight: 700;
 	display: inline-block;
 	margin-bottom: 6px;
@@ -1456,7 +1455,7 @@ body.dark .loader_line:after{
 	width: 24px;
 	height: 24px;
 	border-radius: 100%;
-	border: 3px solid #ff451b;
+	border: 3px solid #38c0ff;
 }
 .know_tm_resume_title .shape:before{
 	position: absolute;
@@ -1464,7 +1463,7 @@ body.dark .loader_line:after{
 	width: 8px;
 	height: 8px;
 	border-radius: 100%;
-	background-color: #ff451b;
+	background-color: #38c0ff;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
@@ -1510,7 +1509,7 @@ body.dark .loader_line:after{
 }
 .know_tm_resume .info_list ul li .short .year span{
 	font-size: 20px;
-	color: #ff451b;
+	color: #38c0ff;
 	display: inline-block;
 	border: 1px solid #dddddd;
 	border-radius: 50px;
@@ -1587,7 +1586,7 @@ body.dark .loader_line:after{
 	right: 100%;
 	bottom: -5px;
 	transition: all 2s cubic-bezier(0.165, 0.840, 0.440, 1.000);  /* IE 10+ */
-	color: #ff451b;
+	color: #38c0ff;
 	font-family: "Poppins";
 }
 .progress_inner .background{
@@ -1600,7 +1599,7 @@ body.dark .loader_line:after{
 }
 .progress_inner .background .bar_in{
 	height:5px;
-	background:#ff451b;
+	background:#38c0ff;
 	width:0px;
 	overflow:hidden;
 	border-radius: 50px;
@@ -1682,7 +1681,7 @@ body.dark .loader_line:after{
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
-	color: #ff451b;
+	color: #38c0ff;
 	font-size: 30px;
 	font-weight: 400;
 }
@@ -1717,7 +1716,7 @@ body.dark .loader_line:after{
 	margin-right: 0px;
 }
 .know_tm_portfolio .portfolio_filter ul li a.current{
-	color: #ff451b;
+	color: #38c0ff;
 }
 .know_tm_portfolio .portfolio_filter ul li a{
 	text-decoration: none;
@@ -1732,7 +1731,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .know_tm_portfolio .portfolio_filter ul li a:hover{
-	color: #ff451b;
+	color: #38c0ff;
 }
 .know_tm_portfolio .portfolio_list{
 	width: 100%;
@@ -1783,7 +1782,7 @@ body.dark .loader_line:after{
 	left: 0px;
 	right: 0px;
 	z-index: 1;
-	background-color: rgba(255,69,27,.72);
+	background-color: rgb(255, 251, 0);
 	border-radius: 10px;
 	opacity: 0;
 	visibility: hidden;
@@ -2313,7 +2312,7 @@ body.dark .loader_line:after{
 .know_tm_testimonials .owl-theme .owl-dots .owl-dot span{
 	width: 11px;
 	height: 11px;
-	background-color: #ff451b;
+	background-color: #38c0ff;
 	position: relative;
 	margin: 0px 15px;
 }
@@ -2428,7 +2427,7 @@ body.dark .loader_line:after{
 }
 .know_tm_news .news_list ul li .details .category a{
 	text-decoration: none;
-	color: #ff451b;
+	color: #38c0ff;
 	font-size: 16px;
 	font-weight: 700;
 }
@@ -2446,7 +2445,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .know_tm_news .news_list ul li .details .title a:hover{
-	color: #ff451b;
+	color: #38c0ff;
 }
 .know_tm_news .news_informations{
 	display: none;
@@ -2584,7 +2583,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .know_tm_contact .wrapper .left ul li .list_inner .short span a:hover{
-	color: #ff451b;
+	color: #38c0ff;
 }
 .know_tm_contact .wrapper .right{
 	width: 65%;
@@ -2653,19 +2652,19 @@ input[type=number] {
 	border: 1px solid rgba(0,0,0,.3);
 }
 .know_tm_contact .empty_notice{
-	color: #F52225;
+	color: rgb(255, 251, 0);
 	margin-bottom: 7px;
 	display: none;
 	text-align: left;
 	font-weight: 500;
 }
 .know_tm_contact .contact_error{
-	color: #F52225;
+	color: rgb(255, 251, 0);
 	text-align: left;
 	font-weight: 500;
 }
 .know_tm_contact .returnmessage{
-	color:#3A00FF;
+	color:#008cff;
 	margin-bottom: 7px;
 	text-align: left;
 	font-weight: 500;
@@ -2709,7 +2708,7 @@ input[type=number] {
 	        transition: all .3s ease;
 }
 .know_tm_copyright .left a:hover{
-	color: #ff451b;
+	color: #38c0ff;
 }
 .know_tm_copyright .right ul{
 	margin: 0px;
@@ -2733,7 +2732,7 @@ input[type=number] {
 	        transition: all .3s ease;
 }
 .know_tm_copyright .right ul li a:hover{
-	color: #ff451b;
+	color: #38c0ff;
 }
 .know_tm_copyright.fixed{
 	position: fixed;
@@ -2780,7 +2779,7 @@ input[type=number] {
 }
 .know_tm_hero_second .subtitle{
 	display: inline-block;
-	color: #ff451b;
+	color: #38c0ff;
 	font-size: 30px;
 	font-weight: 700;
 	margin-bottom: 5px;
@@ -2847,7 +2846,7 @@ input[type=number] {
 .know_tm_hero_second .right .image .first{
 	width: 90px;
 	height: 90px;
-	background-color: #ff451b;
+	background-color: #38c0ff;
 	top: 20px;
 	left: -5px;
 	transform: rotate(42deg);
@@ -2935,7 +2934,7 @@ input[type=number] {
 	        transition: all .3s ease;
 }
 .know_tm_extra_menu .list_in .list_icon{
-	background-color: #ff451b;
+	background-color: #38c0ff;
 }
 .know_tm_extra_menu .list_in .down_icon{
 	background-color: #ffb324;
@@ -3004,7 +3003,7 @@ input[type=number] {
 }
 .know_tm_extra_menu .menu_list .unordered .unorderest_li.opened .list_in .center,
 .know_tm_extra_menu .menu_list .unordered .unorderest_li .list_in:hover .center{
-	background-color: #ff451b;
+	background-color: #38c0ff;
 }
 .know_tm_extra_menu .menu_list .unordered .unorderest_li.opened .list_in .center span,
 .know_tm_extra_menu .menu_list .unordered .unorderest_li .list_in:hover .center span{
@@ -3085,7 +3084,7 @@ input[type=number] {
 }
 .know_tm_fixed_content .menubar ul li:hover,
 .know_tm_fixed_content .menubar ul li.active{
-	background-color: #fe451b;
+	background-color: #fedc1bbb;
 }
 .know_tm_fixed_content .menubar ul li:last-child{
 	margin-bottom: 0px;
@@ -3093,7 +3092,7 @@ input[type=number] {
 .know_tm_fixed_content .menubar ul li .svg{
 	width: 27px;
 	height: 27px;
-	color: #ff451b;
+	color: #38c0ff;
 	position: absolute;
 	top: 50%;
 	transform: translateY(-50%);
@@ -3441,7 +3440,7 @@ input[type=number] {
   width: 6px;
   height: 6px;
   z-index: 100;
-  background-color: #ff451b;
+  background-color: #38c0ff;
   -webkit-transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
   transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
 }
@@ -3450,7 +3449,7 @@ input[type=number] {
   margin-top: -40px;
   width: 80px;
   height: 80px;
-  background-color: #ff451b;
+  background-color: #38c0ff;
   opacity: .3;
 }
 .cursor-outer {
@@ -3458,7 +3457,7 @@ input[type=number] {
   margin-top: -15px;
   width: 30px;
   height: 30px;
-  border: 2px solid #ff451b;
+  border: 2px solid #38c0ff;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   z-index: 100;
@@ -3557,10 +3556,10 @@ input[type=number] {
 	        transition: all .3s ease;
 }
 .know_tm_intro .filter ul li.active a{
-	color: #ff451b;
+	color: #38c0ff;
 }
 .know_tm_intro .filter ul li a:hover{
-	color: #ff451b;
+	color: #38c0ff;
 }
 .know_tm_intro .filter ul li:last-child{
 	margin-right: 0px;
@@ -3641,7 +3640,7 @@ input[type=number] {
 	        transition: all .3s ease;
 }
 .know_tm_intro .demo ul li .list_inner .in:hover h3{
-	color: #ff451b;
+	color: #38c0ff;
 }
 
 /*---------------------------------------------------*/
@@ -3656,15 +3655,15 @@ input[type=number] {
 	.know_tm_button a{font-size: 14px;padding: 8px 35px;}
 	.know_tm_topbar .right .social ul li{margin-right: 8px;}
 	.know_tm_topbar .right .social ul li .svg{width: 17px;height: 17px;}
-	.know_tm_topbar .know_tm_button{margin-left: 23px;}
+	/* .know_tm_topbar .know_tm_button{margin-left: 23px;} */
 	.know_tm_hero .main_menu ul li{width: 95px;height: 95px;padding: 35px;}
 	.know_tm_hero .main_menu ul li .svg{width: 25px;height: 25px;}
 	.know_tm_hero .main_menu ul li.entered span{left: 60px;}
 	.know_tm_hero .main_menu ul li.active span{left: 60px;}
 	.know_tm_hero .main_menu ul li span{font-size: 17px;}
 	.know_tm_hero .subtitle{font-size: 25px;}
-	.know_tm_hero .name{font-size: 70px;margin-bottom: 15px;}
-	.know_tm_hero .text{font-size: 20px;margin-bottom: 20px;}
+	.know_tm_hero .name{font-size: 55px;margin-bottom: 15px;}
+	.know_tm_hero .text{font-size: 25px;margin-bottom: 20px;}
 	.know_tm_video .circle{width: 60px;height: 60px;}
 	.know_tm_video .play{font-size: 20px;padding-left: 20px;}
 	.know_tm_main_title h3{font-size: 35px;}
@@ -3756,7 +3755,7 @@ input[type=number] {
 	.know_tm_hero .right{padding-left: 0px;width: 100%;}
 	.know_tm_hero .right .image .main:before{display: none;}
 	.know_tm_hero .left{width: 100%;margin-top: 40px;}
-	.know_tm_hero .name{font-size: 35px;}
+	.know_tm_hero .name{font-size: 30px;}
 	.know_tm_hero .text{font-size: 20px;}
 	.know_tm_hero_second .left{width: 100%;margin-top: 40px;}
 	.know_tm_hero_second .right{width: 100%;}

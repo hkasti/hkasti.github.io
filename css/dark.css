@@ -79,7 +79,7 @@ body.dark .know_tm_hero .main_menu ul li{
 	box-shadow: none;
 }
 body.dark .know_tm_hero .main_menu ul li.active{
-	background-color: #ff451b;
+	background-color: #38c0ff;
 }
 body.dark .know_tm_hero .main_menu ul li span{
 	color: #fff;
@@ -95,13 +95,13 @@ body.dark .know_tm_copyright .right ul li a{
 	color: #a7afbd;
 }
 body.dark .know_tm_copyright .right ul li a:hover{
-	color: #ff451b;
+	color: #38c0ff;
 }
 body.dark .know_tm_copyright .left a{
 	color: #a7afbd;
 }
 body.dark .know_tm_copyright .left a:hover{
-	color: #ff451b;
+	color: #38c0ff;
 }
 body.dark .know_tm_resume .info_list ul li .short .job span{
 	color: #d3d7df;
@@ -120,7 +120,7 @@ body.dark .know_tm_portfolio .portfolio_filter ul li a{
 }
 body.dark .know_tm_portfolio .portfolio_filter ul li a:hover,
 body.dark .know_tm_portfolio .portfolio_filter ul li a.current{
-	color: #ff451b;
+	color: #38c0ff;
 }
 body.dark .know_tm_services .service_list ul li .list_inner{
 	background-color: #5c5d64;
@@ -141,7 +141,7 @@ body.dark .know_tm_news .news_list ul li .details .title a{
 	color: #fff;
 }
 body.dark .know_tm_news .news_list ul li .details .title a:hover{
-	color: #ff451b;
+	color: #38c0ff;
 }
 body.dark .know_tm_news .news_list ul li .details{
 	background-color: #5b5c64;
@@ -188,10 +188,10 @@ body.dark .know_tm_fixed_content .menubar ul li{
 	background-color: #494b50;
 }
 body.dark .know_tm_fixed_content .menubar ul li:hover{
-	background-color: #ff451b;
+	background-color: #38c0ff;
 }
 body.dark .know_tm_fixed_content .menubar ul li.active{
-	background-color: #ff451b;
+	background-color: #38c0ff;
 }
 body.dark .know_tm_fixed_content .menubar ul li span{
 	color: #fff;
@@ -212,7 +212,7 @@ body.dark .know_tm_contact .wrapper .left ul li .list_inner .short span a{
 	color: #a7afbd;
 }
 body.dark .know_tm_contact .wrapper .left ul li .list_inner .short span a:hover{
-	color: #ff451b;
+	color: #38c0ff;
 }
 @media(max-width: 480px){
 	body.dark .know_tm_news .news_list ul li .details{background: none;box-shadow: none;}
