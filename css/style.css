@@ -2544,7 +2544,7 @@ body.dark .loader_line:after{
 	clear: both;
 	float: left;
 	position: relative;
-	display: flex;
+	/* display: flex; */
 	align-items: center;
 }
 .know_tm_contact .wrapper .left ul li .list_inner .icon{
