@@ -607,7 +607,7 @@ body.dark .loader_line:after{
 	bottom: 24px;
 	left: 24px;
 	right:24px;
-	background-color: #ffb324;
+	background-color: rgb(255 255 255 / 15%);
 	z-index: -1;
 	transform: rotate(-50deg);
 	animation: animeRotate 13s linear 0s infinite alternate;
