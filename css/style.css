@@ -1323,7 +1323,7 @@ body.dark .loader_line:after{
 	min-width: 47%;
 	left: -55px;
 	margin-top: 55px;
-	background-color: #38c0ff;
+	background-color: #38c0ff88;
 	padding: 36px 40px 35px 40px;
 	z-index: 1;
 	border-radius: 15px;
@@ -1398,7 +1398,7 @@ body.dark .loader_line:after{
 .know_tm_about .right .text{
 	width: 100%;
 	float: left;
-	margin-bottom: 38px;
+	margin-top: 38px;
 }
 
 /*---------------------------------------------------*/
@@ -1782,10 +1782,10 @@ body.dark .loader_line:after{
 	left: 0px;
 	right: 0px;
 	z-index: 1;
-	background-color: rgba(0, 183, 255, 0.486);
+	background-color: rgba(0, 183, 255, 0.356);
 	border-radius: 10px;
-	opacity: 0;
-	visibility: hidden;
+	opacity: 1;
+	visibility: visible;
 	
 	-webkit-transition: all .3s ease;
 	   -moz-transition: all .3s ease;
@@ -1794,8 +1794,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .know_tm_portfolio .portfolio_list ul li .list_inner:hover .overlay{
-	opacity: 1;
-	visibility: visible;
+	background-color: rgb(218, 124, 0);
 }
 .know_tm_portfolio .portfolio_list .svg{
 	position: absolute;
@@ -1807,8 +1806,8 @@ body.dark .loader_line:after{
 	height: 50px;
 	color: #fff;
 	margin-top:10px;
-	opacity: 0;
-	visibility: hidden;
+	opacity: 1;
+	visibility: visible;
 	
 	-webkit-transition: all .3s ease;
 	   -moz-transition: all .3s ease;
@@ -1817,8 +1816,6 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .know_tm_portfolio .portfolio_list ul li .list_inner:hover .svg{
-	opacity: 1;
-	visibility: visible;
 	margin-top: 0px;
 }
 .know_tm_portfolio .portfolio_list .details{
@@ -1829,8 +1826,8 @@ body.dark .loader_line:after{
 	left: 0px;
 	z-index: 2;
 	padding: 0px 20px 35px 20px;
-	opacity: 0;
-	visibility: hidden;
+	opacity: 1;
+	visibility: visible;
 	
 	-webkit-transition: all .3s ease;
 	   -moz-transition: all .3s ease;
@@ -1839,8 +1836,6 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .know_tm_portfolio .portfolio_list ul li .list_inner:hover .details{
-	opacity: 1;
-	visibility: visible;
 	bottom: 0px;
 }
 .know_tm_portfolio .portfolio_list .details span{
