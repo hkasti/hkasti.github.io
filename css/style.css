@@ -1782,7 +1782,7 @@ body.dark .loader_line:after{
 	left: 0px;
 	right: 0px;
 	z-index: 1;
-	background-color: rgb(255, 251, 0);
+	background-color: rgba(0, 183, 255, 0.486);
 	border-radius: 10px;
 	opacity: 0;
 	visibility: hidden;
@@ -3084,7 +3084,7 @@ input[type=number] {
 }
 .know_tm_fixed_content .menubar ul li:hover,
 .know_tm_fixed_content .menubar ul li.active{
-	background-color: #fedc1bbb;
+	background-color: #1ba3febb;
 }
 .know_tm_fixed_content .menubar ul li:last-child{
 	margin-bottom: 0px;
