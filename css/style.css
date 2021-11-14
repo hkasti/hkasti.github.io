@@ -1383,6 +1383,7 @@ body.dark .loader_line:after{
 	padding-left: 75px;
 	position: relative;
 	top: -8px;
+	margin-bottom: 30px;
 }
 .know_tm_about .right .bigger_text{
 	width: 100%;
@@ -3774,7 +3775,7 @@ input[type=number] {
 	.know_tm_extra_menu .list_in .down_icon .svg{width: 15px;height: 15px;}
 	.know_tm_video .circle{width: 60px;height: 60px;}
 	.know_tm_video .play{font-size: 22px;padding-left: 20px;}
-	.know_tm_mainpart.opened{padding: 70px 30px;}
+	.know_tm_mainpart.opened{padding: 70px 30px; margin-bottom: 30px;}
 	.know_tm_about{flex-direction: column-reverse;}
 	.know_tm_about .right{padding-left: 0px;width: 100%;top: 0px;}
 	.know_tm_main_title{max-width: 100%;}
