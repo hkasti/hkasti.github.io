@@ -1260,6 +1260,7 @@ body.dark .loader_line:after{
 }
 .know_tm_mainpart.opened{
 	padding: 70px;
+	margin-bottom: 50px;
 }
 .know_tm_main_section{
 	width: 100%;
