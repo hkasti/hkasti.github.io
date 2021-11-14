@@ -3747,7 +3747,7 @@ input[type=number] {
 	.know_tm_hero .main_menu ul li .svg{width: 32px;height: 32px;}
 	.know_tm_hero .content_inner .main_info{min-height: auto;}
 	.know_tm_hero .content_inner .main_info{flex-direction: column-reverse;align-items: baseline;}
-	.know_tm_hero .right{padding-left: 0px;width: 100%;}
+	.know_tm_hero .right{padding-left: 0px;width: 75%;}
 	.know_tm_hero .right .image .main:before{display: none;}
 	.know_tm_hero .left{width: 100%;margin-top: 40px;}
 	.know_tm_hero .name{font-size: 30px;}
