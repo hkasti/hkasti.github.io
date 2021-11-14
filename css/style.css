@@ -30,7 +30,7 @@
 html {
 	overflow-x: hidden;
 	padding: 0px;
-	margin: 0px
+	margin: 0px;
 }
 body{
 	font-family: "Poppins";
@@ -41,6 +41,7 @@ body{
 	font-weight: 400;
 	background-color: #fff;
 	color: #888888;
+	cursor: none;
 }
 svg{
 	fill: currentcolor;
@@ -3749,7 +3750,7 @@ input[type=number] {
 	.know_tm_hero .main_menu ul li .svg{width: 32px;height: 32px;}
 	.know_tm_hero .content_inner .main_info{min-height: auto;}
 	.know_tm_hero .content_inner .main_info{flex-direction: column-reverse;align-items: baseline;}
-	.know_tm_hero .right{padding-left: 0px;width: 75%;}
+	.know_tm_hero .right{padding-left: 0px;width: 60%;}
 	.know_tm_hero .right .image .main:before{display: none;}
 	.know_tm_hero .left{width: 100%;margin-top: 40px;}
 	.know_tm_hero .name{font-size: 30px;}
